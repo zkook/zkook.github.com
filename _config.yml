@@ -13,7 +13,7 @@ baseurl: "/"    # the subpath of your site, "/blog"
 url: ""
 
 # footer 
-description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
+description: ""
 
 favo: "실험"
 descrpt: "한국어"
@@ -51,7 +51,7 @@ gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
 
 # Color
 # All css class, see: http://materializecss.com/color.html
-header-color: "indigo lighten-1"
+header-color: "red darken-3"
 head-theme-color: " ‎#DC143C"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
 
 footer-color: "red darken-3"

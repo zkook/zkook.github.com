@@ -6,8 +6,8 @@ twitter_username: twitter
 github_username:  github
 googleplus_username: google
 
-head-title: ينببنلىينئةضنبة
-title: ينببنلىينئةضنبة
+head-title:나의 블로그
+title: 나의 블로그
 
 baseurl: "/"    # the subpath of your site, "/blog"
 url: ""
@@ -15,8 +15,8 @@ url: ""
 # footer 
 description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
 
-#favo: ""
-#descrpt: "한국어"
+favo: "실험"
+descrpt: "한국어"
 
 
 #
@@ -52,7 +52,7 @@ gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
 # Color
 # All css class, see: http://materializecss.com/color.html
 header-color: "indigo lighten-1"
-head-theme-color: "#5c6bc0"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
+head-theme-color: " ‎#DC143C"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
 
 footer-color: "indigo lighten-1"
 footer-button-color: "indigo lighten-2"

@@ -54,8 +54,8 @@ gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
 header-color: "indigo lighten-1"
 head-theme-color: " ‎#DC143C"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
 
-footer-color: "indigo lighten-1"
-footer-button-color: "indigo lighten-2"
+footer-color: "red darken-3"
+footer-button-color: "red darken-4"
 footer-link-color: "red-text text-accent-1"
 
 share-button-color: "pink"
